@@ -1,7 +1,7 @@
 {
   "name": "karlsen-desktop",
   "description": "Karlsen Desktop",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "private": true,
   "main": "karlsen-desktop.js",
   "files": [
