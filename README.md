@@ -1,5 +1,9 @@
 # Karlsen Desktop
 
+[![GitHub release](https://img.shields.io/github/v/release/karlsen-network/karlsen-desktop.svg)](https://github.com/karlsen-network/karlsen-desktop/releases)
+[![GitHub downloads](https://img.shields.io/github/downloads/karlsen-network/karlsen-desktop/total.svg)](https://github.com/karlsen-network/karlsen-desktop/releases)
+[![Join the Karlsen Discord Server](https://img.shields.io/discord/1169939685280337930.svg?label=&logo=discord&logoColor=ffffff)](https://discord.gg/ZPZRvgMJDT)
+
 Karlsen Desktop is a dedicated desktop process manager for
 [Karlsen node](https://github.com/karlsen-network/karlsend).
 
